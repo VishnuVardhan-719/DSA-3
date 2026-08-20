@@ -1,0 +1,9 @@
+Python is a programming language.
+
+Python is used in Machine Learning.
+
+Machine Learning is used in Artificial Intelligence.
+
+Text Analytics processes textual information.
+
+Python is easy to learn.
